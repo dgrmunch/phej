@@ -3,6 +3,13 @@
 
 * Inspired by Orca (https://github.com/hundredrabbits/Orca) and the simplicity and beauty of the way in which my toddler understood pitch as a simple line on a piece of paper.
 
+# Current status
+
+* It needs a DAW or Synth connected via midi.
+* It is still a work in progress. Not fully functional and right now I am not focus on the project. 
+
+So feel free to test it and improve it by submitting a pull request :) 
+
 # Run
 
 In Phej dir:
